@@ -21,7 +21,11 @@ The problem that I chose was (3) Shuttle Stop Crowd Ranking. I will be making an
 I will be using Merge Sort because it is efficient and easy to visualize through repeated splitting and merging of lists. Not only it is a clear and efficient way to sort the stops by crowd count, but it also makes the step-by-step process easier for users to follow. Since the dataset is a list of shuttle stops with crowd counts, merge Sort will work well because it can sort these records by crowd count while making each merge step visible to the user. However, it is important that there are two preconditions for this app, and that is crowd counts must be integers, stop names cannot be empty. Users will see the original stop list, each merge step and the final ranked list.
 
 ## Demo
-
+Since the file for edge cases testing is too big, it will be stored in HuggingFace.
+![1](1.png)
+![2](2.png)
+![3](3.png)
+![4](4.png)
 
 ## Problem Breakdown & Computational Thinking
 ### Decomposition
