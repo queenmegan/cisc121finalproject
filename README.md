@@ -57,7 +57,7 @@ The app follows a simple input-process-output design. The user will first enter 
 - gradio
 
 ## Hugging Face Link
-(paste link)
+[(paste link)](https://huggingface.co/spaces/meganongg/sortinigdemo)
 
 ## Testing
 - normal input
