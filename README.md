@@ -1,17 +1,4 @@
 
----
-title: Sortinigdemo
-emoji: 🤍
-colorFrom: pink
-colorTo: purple
-sdk: gradio
-sdk_version: 6.12.0
-app_file: app.py
-pinned: false
-short_description: this is the final project for CISC 121
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 # Shuttle Stop Crowd Ranking with Merge Sort
 
 ## Chosen Problem
